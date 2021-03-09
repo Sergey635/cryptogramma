@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1360px;
+    margin: 0px;
+    padding: 0px;
+}
+.form {
+    margin: 5px;
+}
+input{
+    height: auto;
+    width: 180px;
+}
+
+.crypted-text{
+    margin-left: 38px;
+}
+
